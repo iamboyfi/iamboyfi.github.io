@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iamboyfi.github.io/sitemap
+Sitemap: https://iamboyfi.github.io/app/sitemap
+Sitemap: https://iamboyfi.github.io/assets/sitemap
+Sitemap: https://iamboyfi.github.io/css/sitemap
+Sitemap: https://iamboyfi.github.io/includes/sitemap
+Sitemap: https://iamboyfi.github.io/item/sitemap
+Sitemap: https://iamboyfi.github.io/src/sitemap
